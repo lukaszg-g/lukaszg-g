@@ -1320,6 +1320,7 @@
     },
     $a: function (k, l, m, n) {
       var o = this.$b.get_document().get_guid();
+      console.log(o, this.$b.get_document().get_guid())
       var p = this.$b.get_document().save();
       var q =
         "/createajax/upload?guid=" +
