@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lukaszg-g</h1>
+<h1 align="center">Hi 👋, I'm pro żabaskrypt developer</h1>
 
 <h3 align="center">A passionate developer from Poland</h3>
 <h4 align="center">Currently learning żabascript</h4>
