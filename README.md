@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm pro żabaskrypt developer</h1>
+<h1 align="center">Hi 👋, I'm pro javascript developer</h1>
 
 <h3 align="center">A passionate developer from Poland</h3>
-<h4 align="center">Currently learning żabascript</h4>
+<!-- <h4 align="center">Currently learning</h4> -->
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=lukaszg-g&color=dcc300">
