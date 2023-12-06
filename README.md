@@ -28,7 +28,7 @@
 </a>
 
 <p align="center">
-Luk#9666
+lukbuk
 </p>
 
 </p>
